@@ -1,2 +1,1 @@
-This is the first file in this repository.
-Adding text to the first file.
+This is the first file in this repository
